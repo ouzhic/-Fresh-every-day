@@ -1,0 +1,21 @@
+body,.header,ul,input,div,h2{
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+}
+
+.fl{
+	float: left;
+}
+
+.fr{
+	float: right;
+}
+
+a{
+	text-decoration: none;
+}
+
+li{
+	list-style: none;
+}
