@@ -1,3 +1,5 @@
+
+
 /* 顶部 */
 .header{
 	width: 1920px;
@@ -270,3 +272,196 @@
 	height: 270px;
 	font-size: 0px;
 }
+
+.main_center02{
+	width: 1200px;
+	height: 337px;
+	margin: 20px auto 0px;
+}
+
+.main_center02 .title{
+	width: 1200px;
+	height: 35px;
+	border-bottom: 2px solid #42ad46;
+}
+
+.main_center02 .title h3{
+	margin: 0px;
+	font: bold 16px/35px 'Microsoft Yahei';
+	color: #37ab40;
+	float: left;
+}
+
+.main_center02 .title ul{
+	width: 189px;
+	height: 12px;
+	border-left: 1px solid black;
+	float: left;
+	margin: 12px 0px 0px 20px;
+}
+
+.main_center02 .title ul li{
+	width: 48px;
+	height: 12px;
+	float: left;
+	margin-left: 15px;
+	line-height: 12px;
+}
+
+.main_center02 .title a:hover{
+	color: #F80;
+}
+
+.main_center02 .title .more{
+	color: #666;
+	font: normal 12px/35px 'Microsoft Yahei';
+}
+
+.main_center02 .banner{
+	width: 200px;
+	height: 300px;
+	background: url(../images/banner01.jpg) no-repeat;
+}
+
+.main_center02 .goods_list{
+	width: 1000px;
+	height: 300px;
+}
+
+.main_center02 .goods_list li{
+	width: 249px;
+	height: 299px;
+	border-bottom: 1px solid #ededed;
+	border-right: 1px solid #ededed;
+}
+
+.main_center02 .goods_list li h4{
+	text-align: center;
+	font-weight: normal;
+}
+
+.main_center02 .goods_list li a{
+	display: block;
+	width: 180px;
+	height: 180px;
+	margin: 0px auto;
+}
+
+.main_center02 .goods_list li .price{
+	text-align: center;
+	color: #c40000;
+	font: bold 20px/50px 'Microsoft Yahei';
+	margin-top: 20px;
+}
+
+.main_center03{
+	width: 1200px;
+	height: 337px;
+	margin: 20px auto 0px;
+}
+
+.main_center03 .title{
+	width: 1200px;
+	height: 37px;
+}
+
+.main_center03 .title h3{
+	margin: 0px;
+	float: left;
+	font: bold 16px/35px 'Microsoft Yahei';
+	color: #37ab40;
+}
+
+.main_center03 .title ul{
+	float: left;
+	margin: 12px 0px 0px 20px;
+	border-left: 1px solid #666;
+}
+
+.main_center03 .title li{
+	float: left;
+	font: normal 12px/12px 'Microsoft Yahei';
+	margin-left: 15px;
+}
+
+.main_center03 .title a:hover{
+	color: #f80;
+}
+
+.main_center03 .title .more{
+	color: #666;
+	font: normal 12px/35px 'Microsoft Yahei';
+}
+
+.main_center03 .title{
+	border-bottom: 2px solid #42ab40;
+}
+
+.main_center03 .banner{
+	width: 200px;
+	height: 300px;
+	background: url(../images/banner02.jpg) no-repeat;
+}
+
+.main_center03 .goods_list{
+	width: 1000px
+	height: 300px;
+}
+
+.main_center03 .goods_list li{
+	width: 249px;
+	height: 299px;
+	float: left;
+	border-right: 1px solid #ededed;
+	border-bottom: 1px solid #ededed;
+}
+
+.main_center03 .goods_list h4{
+	margin: 0px;
+	font: normal 14px/50px 'Microsoft Yahei';
+	text-align: center;
+}
+
+.main_center03 .goods_list li a{
+	display: block;
+	width: 180px;
+	height: 180px;
+	margin: 0px auto;
+}
+
+.main_center03 .goods_list li .price{
+	color: #c40000;
+	font: bold 20px/50px 'Microsoft Yahei';
+	text-align: center;
+	margin-top: 20px;
+}
+
+ /* 底部 */
+ .bottom{
+ 	margin-top: 30px;
+ 	margin-bottom: 40px;
+ 	border-top: 2px solid #4ab14e;
+ }
+
+ .bottom .bottom_link{
+ 	margin-top: 38px;
+ 	text-align: center;
+ }
+
+ .bottom .bottom_link span{
+ 	padding: 0px 10px 0px 10px;
+ }
+
+ .bottom .bottom_link a{
+ 	color: #4e4e4e;
+ }
+
+ .bottom .bottom_link a:hover{
+ 	color: #f80;
+ }
+
+ .bottom p{
+ 	margin: 14px 0px 0px 0px;
+ 	font-size: 12px;
+ 	text-align: center;
+ }
